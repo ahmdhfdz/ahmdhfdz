@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @ahmdhfdz
-- 👀 I’m interested in Front End Developer with JS or TS language and VueJS, AngularJS, ReactJS libraries/Frameworks
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on projects such as e-commerce 
-- 📫 How to reach me:
-- LinkedIn = https://www.linkedin.com/in/ahmad-hfdz/
-- Email = yahoo       -> ahmad.hafidz98@yahoo.co.id
--       = google mail -> ahmad.hafidz16515@gmail.com
+## Intro to Profile
+ - Hi, I’m [@ahmdhfdz](https://www.linkedin.com/in/ahmad-hfdz/) or you can call me whatever you like
+ - What am I ? I'm a Front End Developer-**ish** that familiar with **JS/TS** lang and Frameworks like **VueJS**, **next/React**, etc. and might be a little of **java spring**
+- Currently learning anything that interest me
+- and focus on finding a new light
 
-<!---
-ahmdhfdz/ahmdhfdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## How to reach me
+ - [LinkedIn ](https://www.linkedin.com/in/ahmad-hfdz/)
+   
+```bash
+  ⚠️ Still Under Construction
+```
